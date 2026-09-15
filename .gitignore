@@ -4,3 +4,4 @@ GridCam_Pro_Documentation.mdnode_modules/
 dist/
 build/
 *.log
+node_modules/
