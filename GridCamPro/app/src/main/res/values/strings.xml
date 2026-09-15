@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GridCam Pro</string>
+    <string name="toggle_grid">تغییر گرید</string>
+    <string name="toggle_flash">تغییر فلاش</string>
+    <string name="capture_photo">عکس‌برداری</string>
+    <string name="capture_video">فیلم‌برداری</string>
+    <string name="switch_camera">تغییر دوربین</string>
+    <string name="gallery">گالری</string>
+</resources>
