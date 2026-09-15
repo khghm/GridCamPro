@@ -1,4 +1,5 @@
-node_modules/
+# Documentation
+GridCam_Pro_Documentation.mdnode_modules/
 .next/
 dist/
 build/
